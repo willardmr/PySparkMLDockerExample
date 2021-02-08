@@ -1,4 +1,5 @@
 import pyspark
+import pyspark.ml
 
 sc = pyspark.SparkContext('local[*]')
 

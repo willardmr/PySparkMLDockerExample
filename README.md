@@ -1,5 +1,5 @@
 # PySparkDockerExample
-Example PySpark application using docker-compose.
+Example PySpark application using docker-compose.  Allows pyspark.ml package usage.
 
 ## To run:
 Pull the repo and cd into the directory.  Then build the images:
